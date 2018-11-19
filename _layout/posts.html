@@ -2,9 +2,24 @@
 layout: default
 title: post
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta"> {{ page.date | date_to_string }} </p>
 
-<div class="post">
-	{{ content }}
-</div>
+<!DOCTYPE html>
+<html>
+<head> <title>{{ page.title }}</title></head>
+
+<body>
+  <nav>
+      <li><a href="/">Home</a></li>
+      <li><a href="/projects">Projects</a></li>
+      <li><a href="/radio-control">Radio Control</a></li>
+      <li><a href="/tai-chi">Tai Chi</a></li>
+  </nav>
+	<div class="post">
+
+		<p class="meta"> {{ page.date | date_to_string }} </p>
+
+		{{ content }}
+	</div>
+</body>
+</html>
+
