@@ -2,6 +2,7 @@
 layout: post
 title: "Grant Ebeling, apparently half-decent at this sort of thing"
 date: 2018-11-11
+categories: projects
 ---
 
 ### This is going decently  
