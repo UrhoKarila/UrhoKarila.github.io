@@ -8,4 +8,4 @@ I dunno what's going on with the unfortunate `post.html` template not being prop
 Kind of the reason I've run through this -- gotta learn somehow.
 
 Anyways, each category for the blog has its own subfolder, that currently contains only `index.html`. The page itself is dynamically populated on load, pulling form the `_posts` folder.  
-This eems like a lot of busy work -- there may be a restructuring coming once I figure out a better way of doing this.
+This seems like a lot of busy work -- there may be a restructuring coming once I figure out a better way of doing this.
