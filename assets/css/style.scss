@@ -1,4 +1,62 @@
-// ---
-// ---
+---
+---
 
-// @import "{{ site.theme }}";
+$link-color: #11A;
+$link-visited-color: #22B;
+$font: 'Raleway', sans-serif;
+$font-header: "Lato";
+
+
+
+body{
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    background-color: #EEE;
+    color: #222;
+    font-family: $font;
+}
+
+a{
+     color: $link-color;
+     border-radius: .25em;
+}
+
+a:visited{
+    color: $link-visited-color;
+}
+
+nav{
+    width: 100%;
+    padding: .5em 5em;
+    list-style-type: none;
+    font-size: 18px;
+    text-decoration: underline;
+
+    li{
+        display: inline-block;
+        padding: .25em .25em;
+        margin: 1em 1em;
+        box-sizing: border-box;
+        font-size: 1.2em;
+
+        background-color: #DDD;
+        border-radius: .25em;
+    }
+
+    border-bottom: 2px solid black;
+}
+
+.body-container{
+    max-width: 60em;
+    margin: auto;
+}
+h1, h2, h3{
+    font-family: $font-header;
+}
+
+h2{
+    font-size: 1.5em;
+    margin-left: -.5em;
+    font-weight: normal;
+}
