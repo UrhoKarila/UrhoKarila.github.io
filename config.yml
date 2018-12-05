@@ -3,3 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /:categories/:title
 theme: jekyll-theme-minimal
+
+baseurl: ""
+url: "https://urhokarila.github.io/"
