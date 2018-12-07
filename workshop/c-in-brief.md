@@ -43,5 +43,5 @@ float b[3] = { 1.0 , 1.0 , 1.0};
 
 ## Once you're done here
 
-[Go check out the install instructions for the new firmware.](/workshop/install/)
+[Go check out the install instructions for the new firmware.](/workshop/install)
 </div>
