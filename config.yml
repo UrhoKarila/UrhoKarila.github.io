@@ -6,3 +6,5 @@ theme: jekyll-theme-minimal
 
 baseurl: ""
 url: "https://urhokarila.github.io/"
+
+highlighter: rouge

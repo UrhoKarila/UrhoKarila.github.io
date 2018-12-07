@@ -1,5 +1,6 @@
 ---
 ---
+@import url(monokai.css);
 
 $link-color: #11A;
 $link-visited-color: #22B;
@@ -15,6 +16,15 @@ body{
     background-color: #EEE;
     color: #222;
     font-family: $font;
+}
+
+.blurb, .container{
+    background-color: #FFF;
+    padding: 2em;
+    border-radius: 1em;
+    
+    box-shadow: 5px 5px 2px #CCC;
+    margin: 2em;
 }
 
 a{
@@ -141,4 +151,15 @@ h2{
 
 .hidden{
     display: none !important;
+}
+
+code{
+}
+
+.spacer{
+    margin: 5em;
+}
+
+div.highlight{
+    padding: 1em;
 }
