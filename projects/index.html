@@ -3,6 +3,7 @@ layout: default
 title: Projects blog
 ---
 <h1> {{ page.title }} </h1>
+<div> If you're looking for my upcoming ideas, you're wanting my <a href="todo">TODO list</a>.
 <ul class="post">
 	{% for post in site.categories.projects %}
 		<li><span> {{ post.date | date_to_string }}</span>: <a href="{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>

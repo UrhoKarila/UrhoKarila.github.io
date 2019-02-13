@@ -8,3 +8,6 @@ baseurl: ""
 url: "https://urhokarila.github.io/"
 
 highlighter: rouge
+
+parse_block_html: true
+parse_span_html: true
