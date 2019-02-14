@@ -13,6 +13,7 @@ _neat_
 
 This ties in nicely with something I've been considering for a while. I've been looking to have a reason to get into the habit of updating this at least _semi_-regularly, and I'm thinking that the Yang 40 form I'm learning might be just the trick.  
 
-Constantly and iteratively posting about something that I'm learning piecemeal? Seems like a place to fit a series!
+Constantly and iteratively posting about something that I'm learning piecemeal? Seems like a place to fit a series!  
+As a bonus, looking through [the document they put together](https://engineering.chrobinson.com/how-to/linking-a-series-of-jekyll-posts/)... this looks manageable. And the steps are pretty clear. Famous last words, right?
 
 Naturally, I'm going to have to go through the config for getting a series set up. Once that's set... We'll see if I can keep up with the form as we learn it.
