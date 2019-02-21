@@ -2,6 +2,9 @@
 layout: header-only
 ---
 <div class="container-body series-container">
+
+
+    {% assign series-posts = site.posts | where: 'series', page.series | sort:'index' %}
     <div class="container series-body">
         <!-- <h3>{{page.categories}}</h3> -->
         <p>Written {{ page.date | date_to_string }}</p>
@@ -11,7 +14,6 @@ layout: header-only
         </div>
 
         <h4><em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em> Series</h4>
-        {% assign series-posts = site.posts | where: 'series', page.series %}
         {% for post in series-posts %}
         {% if post.url == page.url %}
             {% assign prev_post_index = forloop.index | minus: 1 %}
@@ -38,7 +40,6 @@ layout: header-only
     <aside class="series">
         <h4>This post is part of the series <em>{{ site.data.series | where: 'id', page.series | map: 'title' }}</em></h4>
         <ol>
-          {% assign series-posts = site.posts | where: 'series', page.series %}
           {% for post in series-posts %}
           <li>
             {% if post.url == page.url %}
