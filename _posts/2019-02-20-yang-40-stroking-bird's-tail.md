@@ -2,7 +2,6 @@
 series: yang-40
 layout: series
 categories: tai-chi
-index: 2
 ---
 
 ## Way weider than 24

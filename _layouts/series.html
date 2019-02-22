@@ -4,7 +4,7 @@ layout: header-only
 <div class="container-body series-container">
 
 
-    {% assign series-posts = site.posts | where: 'series', page.series | sort:'index' %}
+    {% assign series-posts = site.posts | where: 'series', page.series | sort:'date' %}
     <div class="container series-body">
         <!-- <h3>{{page.categories}}</h3> -->
         <p>Written {{ page.date | date_to_string }}</p>
