@@ -1,5 +1,6 @@
 ---
 categories: projects
+layout: post
 ---
 
 ## I'd like to pretend that I wouldn't be making as many simple git errors if it wasn't for sourcetree wiggin' out on me. 

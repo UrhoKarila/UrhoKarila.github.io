@@ -1,6 +1,7 @@
 ---
 title: What about a Go viewer?
 categories: projects
+layout: post
 ---
 
 ## Maybe it'll be a learning experience
