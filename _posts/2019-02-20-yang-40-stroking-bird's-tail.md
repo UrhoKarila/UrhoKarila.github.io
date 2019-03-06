@@ -41,4 +41,38 @@ Ultimately, it's the _weightshift_ that's moving the hands here. Play it a few t
 
 **2: Ward-off to the North** 
 
-As we finish our ward-off to the east...
+As we finish our ward-off to the east, we're going to step north with our left foot and ward off with the left hand. To reiterate an earlier point, this step is going to form the front of a bow stance. The rear of it - the right foot - is already in place from our first step East. 
+
+Once again, the weight shift is important for this step in particular. We want to make sure we've entirely shifted weight to the right foot, which will work almost automatically in our favor. The left foot should come easily off the ground before we place it North of us. It's not a particularly large step, so feel free to keep it small and comfortable. Bear in mind to keep a channel between the feet. Soon we'll need that lateral freedom to move
+
+The right hand, while we're stepping, is simple. It'll drop from its ward-off position down towards its home, at the right hip.
+
+**3: Double Ward-off to the East**
+
+This particular shift is a bit tricky. It's not something I'm familiar with from either the 24 or 42, though it does resemble the 42 enough to trip me up.
+
+Once we have our ward-off firmly in place to the North, we're going to be turning the torso to face East once more. We'll leave the hands more-or-less in place as we do this, though the gaze will turn Eastward during this shift. It's a reasonably small turn, perhaps 20 degrees, and doesn't have much of an accompanying weight shift. Take care not to exaggerate the move - overdoing it will feel quite unpleasant in the knees.
+
+After re-orienting ourselves, we'll be stepping Eastward with the right foot into what I tend to think of as "Stroking Bird's Tail _Proper_" - a habit I carry with me from the 24 forms. Once again, this will be into a bow stance, or near enough, as we'll readjust the rearward left foot to be in a more comfortable position once we've shifted our weight off of it.
+
+The hands for this ward off are a bit more interesting. By the end of it, we'll be stepping out into Stroking Birds Tail with a double ward-off. The left hand will be palm forward, with its fingers pointing upwards, and the right hand will have its palm facing the body with the fingers pointing off to the left. Both will be at about shoulder height.
+
+As you recall, we'll have the right beginning down near the hip, and the left will be about shoulder height. Stepping out with the right will trigger both hands to begin their movements. The left hand will have a reasonably restrained rotation - simply reorienting itself from horizontal to vertical. The right hand will have a bit of a trip to make, as it sweeps up to join its partner.
+
+**4: Stroking Bird's Tail (Proper)**
+
+_Yes, it's a rather biased name. Don't pretend it isn't how you think of it, though._
+
+From here, it's all very similar to the Yang 24 style of Stroking Bird's tail. We:
+
+- Shift our weight forward, and press forward with our double ward-off
+- Open the hands - right palm out/down, and left up/in - and shift weight backwards, drawing back into the rear foot
+- Turn our torso to the left, and allow the left hand to rise up the side of the body to (about) heart-height.
+- Turn back to the front, rejoining the hands in a double ward-off pressing forwards as we shift forwards
+- Part the hands, palms down, and let them ride back as we shift our weight backwards
+- Drop the hands down to the lower Dan Tian
+- Shift forwards, pressing the fingertips forwards and up
+
+There are a few things of note here. First off, and most annoyingly, is that the Yang 40 does not lift the toe when clearing from Stroking Bird's Tail. Compared to the rest of the movement, it's an utterly insignificant stylistic choice, but also the most rankling to get wrong.
+
+The rest of the notes would fall under the banner of "Good Tai Chi Principles". You should mind your weight, and make sure not to overextend when pressing forward with ward-offs. Bear in mind the frame of your body, and don't overextend your arms on ward-offs or when raising them up the side of the torso. And, again... _keep the toe down_.
